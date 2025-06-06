@@ -1,1 +1,2 @@
 # Hotel-Management-System-Project
+Designed and implemented a database system for managing hotel operations, including room bookings, guest details, staff management, and billing. The project involved creating relational database schemas, writing SQL queries for data retrieval and updates, and ensuring data integrity. This system streamlined the management process and improved overall efficiency by automating key hotel functions.
